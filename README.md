@@ -1,7 +1,7 @@
 ## library installed and configured
 
 - NextJs 14 with TypeScript & AppRouter 
-- Tailwind
+- Tailwind / SCSS
 - prisma 
 - supabase 
 - NextAuthJS 

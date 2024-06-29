@@ -1,0 +1,11 @@
+{
+  "Index": {
+    "title": "Bonjour tout le monde!"
+  },
+  "Login": {
+    "title":  "Page de connexion",
+    "signedAs": "Authentifié en tant que",
+    "signOut": "Se déconnecter",
+    "withGoogle": "Se connecter avec google"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "Login": {
+    "title":  "Login page",
+    "signedAs": "Signed in as",
+    "signOut": "Sign out",
+    "withGoogle": "Sign in with Google"
+  }
+}
