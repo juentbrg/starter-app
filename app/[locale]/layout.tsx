@@ -4,7 +4,7 @@ import {NextIntlClientProvider} from 'next-intl';
 import SessionProviderWrapper from "@/app/SessionProviderWrapper";
 import {ThemeProvider} from "@/app/ThemeProvider";
 import {getMessages} from 'next-intl/server';
-import "../../styles/globals.css";
+import "@/styles/globals.scss";
 import {cn} from "@/lib/utils";
 
 export const metadata: Metadata = {
